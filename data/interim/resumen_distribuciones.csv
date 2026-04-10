@@ -1,0 +1,5 @@
+distribucion,variable,evento,probabilidad
+Binomial,Sueño insuficiente,P(X=3) con n=5,0.30493788440624975
+Poisson,Bebidas energéticas/semana,P(X=2),0.23151909938088056
+Normal,Horas de sueño,P(X<6),0.23420002690976582
+Normal,Horas de sueño,P(6<X<8),0.7247816933873866

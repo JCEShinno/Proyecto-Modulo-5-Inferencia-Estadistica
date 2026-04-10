@@ -1,0 +1,21 @@
+variable,descripcion,tipo
+id_estudiante,Identificador único del estudiante,Cualitativa nominal
+edad,Edad del estudiante en años,Cuantitativa discreta
+sexo,Sexo declarado por el estudiante,Cualitativa nominal
+carrera_area,Área general de la carrera cursada,Cualitativa nominal
+anio_universitario,Año o nivel académico cursado,Cualitativa ordinal
+horas_sueno,Horas promedio de sueño por noche,Cuantitativa continua
+calidad_sueno_score,Puntaje de calidad del sueño en escala 1 a 10,Cuantitativa discreta
+comidas_saludables_semana,Cantidad de comidas saludables por semana,Cuantitativa discreta
+comidas_chatarra_semana,Cantidad de comidas no saludables por semana,Cuantitativa discreta
+minutos_actividad_fisica_semana,Minutos semanales de actividad física,Cuantitativa continua
+nivel_estres_score,Puntaje de estrés percibido en escala 1 a 10,Cuantitativa discreta
+horas_estudio_dia,Horas promedio de estudio por día,Cuantitativa continua
+consumo_bebidas_energeticas_semana,Cantidad semanal de bebidas energéticas,Cuantitativa discreta
+imc,Índice de masa corporal estimado,Cuantitativa continua
+actividad_fisica_suficiente,Cumplimiento de al menos 150 minutos de actividad física semanal,Cualitativa dicotómica
+sueno_insuficiente,Condición de dormir menos de 7 horas diarias,Cualitativa dicotómica
+autopercepcion_salud,Percepción general del estado de salud,Cualitativa ordinal
+fumador,Condición de consumo de tabaco,Cualitativa dicotómica
+consume_alcohol,Condición de consumo de alcohol,Cualitativa dicotómica
+imc_categoria,Clasificación del IMC,Cualitativa ordinal

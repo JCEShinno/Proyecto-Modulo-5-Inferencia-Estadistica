@@ -1,0 +1,7 @@
+evento,descripcion,probabilidad
+P(A),Actividad física suficiente,0.505
+P(B),Sueño insuficiente,0.705
+P(C),Autopercepción de salud favorable,0.5625
+P(A ∩ B),Actividad física suficiente y sueño insuficiente,0.3125
+P(A ∪ B),Actividad física suficiente o sueño insuficiente,0.8975
+P(Bᶜ),Complemento de sueño insuficiente,0.295
